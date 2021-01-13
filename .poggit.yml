@@ -1,7 +1,0 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/InsulatorGMan/SlapperUpdate
-branches:
-- main
-projects:
-  SlapperUpdate:
-    path: ""
-...
